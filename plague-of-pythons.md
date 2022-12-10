@@ -10,7 +10,7 @@
 
 ## URLS
 
-- Github repo: 
+- Github repo:  https://github.com/lolbat/frederik-pohl_plague-of-pythons
 - Ebook source: https://www.gutenberg.org/ebooks/51804
 - Page scans: https://www.gutenberg.org/ebooks/51804
 - Wikipedia author: https://en.wikipedia.org/wiki/Frederik_Pohl
